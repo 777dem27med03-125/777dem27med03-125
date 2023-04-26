@@ -1,7 +1,7 @@
 - 👋 Hola, yo soy Dem (Molina Dardo) @777dem27med03-125
 - 👀 Me interesa las telecomunicaciones. 
 - 🌱 Actualmente estoy aprendiendo robótica (automatización y manejos de señales) y armado de PC.
-- 💞️ Busco trabajar en alguna area de las telecomucaciones.
+- 💞️ Busco trabajar en alguna area de las telecomunicaciones.
 - 📫 Mi gmail es: sabiendomasdedios.125@gmail.com
 
 <!---
